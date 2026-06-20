@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 423de075fb640384fbf37a53cd0c0960, type: 3}
+  m_Name: Shotgun
+  m_EditorClassIdentifier: 
+  nameString: Shotgun
+  model: {fileID: 8884448235704791611, guid: 9519c79af1640e944b8d1326df555b67, type: 3}
+  icon: {fileID: 171758231304656629, guid: a209d1d798dc5be428854b75d50ed4a9, type: 3}
+  drop: {fileID: 8884448235704791611, guid: f1a5238497d8f2a4b9972933efbbdeba, type: 3}
+  maxStack: 1
+  width: 6
+  height: 2

@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 423de075fb640384fbf37a53cd0c0960, type: 3}
+  m_Name: AssaultRifle
+  m_EditorClassIdentifier: 
+  nameString: AssaultRifle
+  model: {fileID: 7788305084325854424, guid: 4d9d8a9c50659ff4084bf89144f1874e, type: 3}
+  icon: {fileID: 171758231304656629, guid: c0fffa649df35eb4c97368fd227f1a17, type: 3}
+  drop: {fileID: 7788305084325854424, guid: 292a758866bf6044da67add08f49afea, type: 3}
+  maxStack: 1
+  width: 5
+  height: 2
